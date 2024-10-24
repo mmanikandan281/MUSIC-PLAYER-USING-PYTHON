@@ -4,7 +4,7 @@
 
 A minimalistic music player with a GUI inspired by the classic iPod interface. The player allows users to play, pause, stop, and navigate through songs seamlessly.
 
-![MUSIC-PLAYER-USING-PYTHON/Screenshot (25).png]
+👀
 
 ## Features
 
