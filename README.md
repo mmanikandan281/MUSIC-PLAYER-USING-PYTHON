@@ -22,7 +22,7 @@ A minimalistic music player with a GUI inspired by the classic iPod interface. T
 
 ## Installation & Setup
 
-1. **Clone the repository**:git clone https://github.com/yourusername/music-player.git
+1. **Clone the repository**:git clone https://github.com/mmanikandan281/MUSIC-PLAYER-USING-PYTHON.git
 cd music-player
 
 2. **Install required packages**:pip install pygame tk
